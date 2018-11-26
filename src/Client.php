@@ -13,7 +13,7 @@ class Client
     private $_endpoint   = null;
     private $_endpointId = null;
     private $_edgeId     = null;
-    private $_baseUrl    = 'https://www.vendus.pt/ws/v1.1/';
+    private $_baseUrl    = 'https://www.vendus.pt/ws/v1.2/';
 
     private $_response        = null;
     private $_responseHeaders = [];
